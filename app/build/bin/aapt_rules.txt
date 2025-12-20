@@ -1,0 +1,11 @@
+# view AndroidManifest.xml #generated:46
+-keep class com.gdsr.apple.appstoretool.AppDetailActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:15
+-keep class com.gdsr.apple.appstoretool.GlobalApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:43
+-keep class com.gdsr.apple.appstoretool.GlobalApplication$CrashActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:22
+-keep class com.gdsr.apple.appstoretool.MainActivity { <init>(...); }
