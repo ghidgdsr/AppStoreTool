@@ -13,4 +13,5 @@ An app that allows you to search the apps & their details on the App Store via y
 ## To Do
 i18n
 
-GDSR.Code w/ AIDE based on love.❤️
+## Note
+Code w/ AIDE based on love by GDSR.❤️
