@@ -9,3 +9,6 @@ An app that allows you to search the apps & their details on the App Store via y
   ```git clone https://github.com/ghidgdsr/AppStoreTool```
 - Import the project into your IDE(like Android Studio)
 将项目导入到 IDE（例如 Android Studio）中
+
+## To Do
+i18n
